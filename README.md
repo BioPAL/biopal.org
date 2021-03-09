@@ -1,7 +1,9 @@
-# Docsy Example
+# Biopal website
 
-[Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
+This repository contains the material that will be published on biopal.org
+Static web pages are produced by Hugo, using [Docsy](https://github.com/google/docsy) theme.
 
+Docsy is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more.
 The theme is included in this project as a Git submodule:
 
 ```bash
@@ -9,24 +11,14 @@ The theme is included in this project as a Git submodule:
  a053131a4ebf6a59e4e8834a42368e248d98c01d themes/docsy (heads/master)
 ```
 
-This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
-
 You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
 
-This is not an officially supported Google product. This project is currently maintained.
+## Contributing
 
-## Using the Docsy Example Project as a template
-
-A simple way to get started is to use this project as a template, which gives you a site project that is set up and ready to use. To do this: 
-
-1. Click **Use this template**.
-
-2. Select a name for your new project and click **Create repository from template**.
-
-3. Make your own local working copy of your new repo using git clone, replacing https://github.com/my/example.git with your repo’s web URL:
+1. Make your own local working copy of this repo using git clone:
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/my/example.git
+git clone --recurse-submodules --depth 1 https://github.com/BioPAL/biopal.org.git
 ```
 
 You can now edit your own versions of the site’s source files.
@@ -40,8 +32,8 @@ npm install
 ## Running the website locally
 
 Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io).
-You can find out more about how to install Hugo for your environment in our
-[Getting started](https://www.docsy.dev/docs/getting-started/#prerequisites-and-installation) guide.
+You can find out more about how to install Hugo for your environment on
+[Hugo](https://gohugo.io/getting-started/installing) web pages.
 
 Once you've made your working copy of the site repo, from the repo root folder, run:
 
@@ -51,7 +43,7 @@ hugo server
 
 ## Running a container locally
 
-You can run docsy-example inside a [Docker](https://docs.docker.com/)
+You can run biopal.org inside a [Docker](https://docs.docker.com/)
 container, the container runs with a volume bound to the `docsy-example`
 folder. This approach doesn't require you to install any dependencies other
 than [Docker Desktop](https://www.docker.com/products/docker-desktop) on
