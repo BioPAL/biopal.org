@@ -1,14 +1,11 @@
 ---
-title: "Multi-Bear Domicile Setup"
-date: 2017-01-05
-weight: 4
+title: "AGB"
+date: 2021-03-01
+weight: 5
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  Above Ground Biomass estimation.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
-{{% /pageinfo %}}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
 
