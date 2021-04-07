@@ -1,16 +1,31 @@
 ---
-title: "Contribution Guidelines"
-linkTitle: "Contribution Guidelines"
+title: "Contributing"
+linkTitle: "Contributing"
 weight: 10
 description: >
-  How to contribute to the docs
+  How to contribute to BioPAL
 ---
 
 {{% pageinfo %}}
-These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
+We want your help! BioPAL is an open source project that is supported by a community who welcomes your enthusiasm and expertise! We will gratefully accept any contribution you might make to the project. Large or small, any contribution makes a big difference; and if you have never contributed to an open source project before, we hope you will start with BioPAL!
 
-Don't forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.
+It is important to us to create a open and friendly community that values it's diversity. In oder to achieve this, we all abide by our Code of Conduct. Please make sure to get to know this Code of Conduct when interacting within the community.
+
 {{% /pageinfo %}}
+
+The main goal of BioPAL is to advance the BIOMASS core processing algorithms for Forest Height estimation, Forest Disturbance assessment, or Above Ground Biomass estimation. We are always on the lookout for advances in estimating these metrics. If you have a novel integration of such an algorithm feel free to create an issue, a pull request or reach out to us via the slack channel.
+
+However, open-source is about much more than contributing with new algorithms, we need your help in many ways:
+
+* Submit a bug report or feature request on GitHub issues.
+* Contribute an Jupyter notebook to our examples gallery.
+* Assist us with user testing.
+* Add to the documentation or help with our website, biopal.org
+* Write unit or integration tests for our project.
+* Answer questions on our GitHub issues, the MAAP forums, Slack channels, Stack Overflow, and Twitter.
+* Translate our documentation into another language.
+* Write a blog post, tweet, or share our project with others.
+* Teach someone how to use BioPAL.
 
 We use [Hugo](https://gohugo.io/) to format and generate our website, the
 [Docsy](https://github.com/google/docsy) theme for styling and site structure, 
