@@ -30,6 +30,7 @@ However, open-source is about much more than contributing with new algorithms, w
 ## Starting to Contribute
 
 Whether you are a first time contributor to open-source or a seasoned open-source veteran interested in joining the BioPAL community, this section will guide you in:
-* [setting up](./Git_tutorial/01_install.md) and [working with git](./Git_tutorial/02_collaborating.md)
+* getting familiar with teh [BioPAL Code of Conduct](/docs/contribution_guidelines/coc/)
+* [setting up](/docs/contribution_guidelines/git_tutorial/01_install/) and [working with git](/docs/contribution_guidelines/git_tutorial/02_collaborating)
 * setting up a BioPAL working environment 
 * and getting to know the standards to use when submitting a contribution to BioPAL
