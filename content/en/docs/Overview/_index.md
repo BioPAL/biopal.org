@@ -3,36 +3,20 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  Getting to known BioPAL
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## What is BioPAL
 
+The BIOMASS Product Algorithm Laboratory (BioPAL) is an evolution of the software developed for the [BIOMASS prototype processor](https://www.mdpi.com/2072-4292/12/6/985) into an open source library to be used and contributed by the scientific community.
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+[BioPAL GitHub repository](https://github.com/BioPAL/BioPAL) collects the software routines for processing Level 1 SAR products to generate Level 2 forest products of Above Ground Biomass (AGB), Forest Heigth (FH) and Forest Disturbance (FD). More details about these products and BIOMASS can be found in [Science and Products]({{< ref "docs/tasks" >}}) and [BIOMASS]({{< ref "docs/biomass" >}}).
 
-Try answering these questions for your user in this page:
+## Purpose
 
-## What is it?
+The BIOMASS Product Algorithm Laboratory (BioPAL) is an open-source scientific computing project, supporting the development of ESA's BIOMASS mission algorithms coded in Python. The goal of the BioPAL project is to bridge the gap between advancements in scientific algorithm development and fast integration of these advancements into ESA's BIOMASS's ground operations. It is the first time that an official ESA Earth Explorer operational processor is supported by open and collaborative development of processing algorithms within the scope of an open-source software project and community.
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+## First steps
 
-## Why do I want it?
-
-Help your user know if your project will help them. Useful information can include: 
-
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
-
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
-
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
-
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
-
+* [Getting Started](/docs/getting-started/): Get started with BioPAL !
+* [Tutorials](/docs/tutorials/): Check out some example use-case !

@@ -3,33 +3,37 @@ title: "Getting Started"
 linkTitle: "Getting Started"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  Installation and setup
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-Information in this section helps your user try your project themselves.
-
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
-
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
-
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+In this section requirements and installation of BioPAL for users are illustrated. Instructions for developers can be found on BioPAL GitHub page in the [README.md](https://github.com/BioPAL/BioPAL/tree/main/README.md).
 
 ## Prerequisites
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+Python 3.6 is a minimum requirement. The packages required are specified in the file [requirements.txt](https://github.com/BioPAL/BioPAL/tree/main/requirements.txt).
+
+Installation procedure described here makes use of the open-source package management system [conda](https://docs.conda.io/projects/conda/en/latest/).
 
 ## Installation
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+Download and unzip the current [BioPAL distribution](https://github.com/BioPAL/BioPAL) to your local hard drive.
+
+## BioPAL datasets
+
+BioPAL gives easy access to several datasets that are used for examples in the documentation and testing. These datasets are hosted on an ESA page and must be downloaded for use. Contact <biopal@esa.int> to receive access to the dataset and for more information.
 
 ## Setup
 
-Is there any initial setup users need to do after installation to try your project?
+1.  In a conda command window, type the following instruction, which creates a biopal environment ( `environment.yml` is present into the BioPAL distribution ):
+	
+        conda env create --file environment.yml
+
+2.  In the same conda command window, type the following instruction, which activates the created biopal environment:
+	
+        conda activate biopal
+
+3.  TBC with tutorial
 
 ## Try it out!
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+For executing BioPAL and producing results have a look at the [Tutorials]({{< ref "docs/tutorials" >}}).

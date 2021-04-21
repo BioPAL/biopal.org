@@ -1,50 +1,36 @@
 ---
 title: "Facts & Figures"
-date: 2017-01-05
 weight: 10
 description: >
-  BIOMASS facts and figures
+  BIOMASS instrument facts and figures
 ---
 
+[Source:ESA](https://earth.esa.int/eogateway/missions/biomass/description)
 
-**Launch**: July 2022
+**Launch**: 2023
 
-**Launcher**:
-Vega from Europe’s Spaceport in French Guiana
+**Launcher**: Vega from Europe’s Spaceport in French Guiana
 
-**Satellite**:
-Three-axis stabilised platform, 10 m high, 12 m wide and 20 m long (including large antenna)
+**Satellite**: Three-axis stabilised platform, 10 m high, 12 m wide and 20 m long (including large antenna)
 
-**Mass**:
-1250 kg (including XX kg fuel)
+**Mass**: 1170 kg (including 67 kg fuel)
 
-**Instrument**:
-Fully polarimetric P-band Synthetic Aperture Radar (SAR) instrument with a 12 m diameter passive reflector
+**Instrument**: Fully polarimetric P-band Synthetic Aperture Radar (SAR) instrument operating at 435 MHz frequency
 
-**Power**:
-1.5 kW deployable solar array with 6.8 m2 triple junction GaAs cells; 144 Ah Li-ion battery
+**Power**: 1.5 kW deployable solar array with 6.8 m2 triple junction GaAs cells; 144 Ah Li-ion battery
 
-**Orbit**:
-Polar, Sun-synchronous, at altitude of 666 km inclined at 98 degrees, 3-day repeat cycle
+**Orbit**: Sun-synchronous, at altitude of 666 km inclined at 98 degrees, 3-day repeat cycle
 
-**Life**:
-Minimum of 5.5 years
+**Life**: Minimum of 5.5 years
 
-**Communication**:
-Science data transmitted to Kourou (SE) via X-band downlink and via S-band uplink for tracking, telemetry and command
+**Communication**: Science data transmitted to Kiruna (Sweden) via X-band downlink. Tracking, telemetry and command transmitted via S-band uplink and downlink
 
-**Mission control**:
-ESA’s European Space Operations Centre (ESOC) in Darmstadt (DE)
+**Mission control**: ESA’s European Space Operations Centre (ESOC) in Darmstadt (Germany)
 
-**Data processing**:
-ESA’s Centre for Earth Observation (ESRIN), in Frascati (IT)
+**Data processing**: ESA’s Centre for Earth Observation (ESRIN), in Frascati (Italy)
 
-**Scientific objectives**:
-Designed to deliver the first, global, systematic measurement of forest biomass. Biomass will reduce the uncertainty in the spatial distribution and dynamics of forest biomass to improve current assessments and future projections of the global carbon cycle
+**Scientific objectives**: Deliver the first global and systematic measurements of forest height and biomass
 
-**roject and commissioning**:
-Managed at ESA’s European Space Research and Technology Centre (ESTEC) in Noordwijk, the Netherlands
+**Project and commissioning**: Managed at ESA’s European Space Research and Technology Centre (ESTEC) in Noordwijk (the Netherlands)
 
-**Prime contractor**:
-Airbus Defence and Space (UK)
-
+**Prime contractor**: Airbus Defence and Space (UK)
