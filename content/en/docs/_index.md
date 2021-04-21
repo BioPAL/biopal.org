@@ -1,4 +1,3 @@
-
 ---
 title: "Documentation"
 linkTitle: "Documentation"
@@ -13,6 +12,4 @@ BioPAL Documentation
 {{% /pageinfo %}}
 
 
-Here you can find all the information you need to understand and succesfully use Biomass estimation algorithms. 
-
-
+Here you can find all the information you need to understand and succesfully use BIOMASS estimation algorithms.

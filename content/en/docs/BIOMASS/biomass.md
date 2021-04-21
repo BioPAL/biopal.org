@@ -1,20 +1,19 @@
 ---
-title: "Measuring Biomass"
-date: 2017-01-05
+title: "Measuring Forests"
 weight: 2
 description: >
-  Measuring Biomass from Space
+  Mapping forests from space
 ---
 
+[![](https://img.youtube.com/vi/UHclzDaD36I/0.jpg)](https://www.youtube.com/watch?v=UHclzDaD36I)
 
-[![BIOMASS](https://img.youtube.com/vi/UHclzDaD36I/0.jpg)](https://www.youtube.com/watch?v=UHclzDaD36I)
+Measuring the biomass of a tree is not an easy task: unless it is cut and then weighted, its mass can only be inferred indirectly from measurements. In classical forestry, this problem can be solved for instance by measuring the height, diameter of the trunk, wood density and then calculating the mass through allometry. However, in-situ measurements are usually costly and difficult to do in remote areas and thus limited in time and space.
 
-With climate change arguably the biggest environmental challenge we face today and Earth’s forests playing a key role in sequestering atmospheric carbon dioxide, it is imperative to obtain accurate estimates of biomass and how it is changing. 
-Measuring the mass of a tree from space is not an easy task. Unless a tree is felled and then weighed, its mass can only be inferred indirectly from structural parameters. In classical forest mensuration, this problem is solved by measuring the height of a tree and the diameter of the trunk and then calculating the mass. The Biomass mission follows a very similar approach. 
+Thanks to the long wavelength of P-band, BIOMASS signal, depending on polarisation, will penetrate through the whole forest layer and scatter back from the _bone_ of the tree (trunk, branches). In this way, information about forest structure can be inferred from space on a global scale.
 
-Thanks to the long wavelength of P-band, the radar signal, depending on the polarisation, emitted by the Biomass satellite will penetrate the whole forest layer and the signal will be scattered back by the individual elements of the forest canopy. In this way, the measured signal carries information about the forest structure and can be used to infer parameters such as forest biomass and forest height.
+Compared to previous spaceborne SARs, BIOMASS is the first to offer polarimetry (PolSAR), polarimetric-interferometry (PolInSAR) and tomography (TomoSAR) altogether. Interferometric observations allow for the cancellation of the ground contribution from the signal, giving measurements more correlated to the volume of biomass in the tree. The combination of interferometry and polarimetry is used for the retrieval of forest height, while tomography allows mapping forests in 3D.
 
-Compared to all previous synthetic aperture systems, Biomass offers major advances in its use of three complementary technologies to provide information on forest properties: polarimetry (PolSAR), polarimetric interferometry (Pol-InSAR) and tomographic SAR (TomoSAR). 
-Each of these measurements provide unique information to infer forest biomass and height. In particular, the interferometric observations allow for the cancellation of the contribution that the ground has made to the signal, which gives a more direct measurement of the radiometric signal from the volume of the biomass in the tree.
+In addition, the BIOMASS mission will offer the opportunity to pursue secondary objectives such as the retrieval of sub-canopy Digital Terrain Model (DTM), mapping subsurface geology (theoretically possible in deserts and glaciers), measuring ice-sheets velocity and ionosphere properties.
 
 ![BIOMASS signal](/docs/img/BIOMASS_observation_modes.png)
+*Illustration of BIOMASS observation modes.*
