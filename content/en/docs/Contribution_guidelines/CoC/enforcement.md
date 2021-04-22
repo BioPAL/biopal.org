@@ -27,7 +27,7 @@ decisions related to that report.
 
 ### Current Code of Conduct Committee members
 
-Alphabetical by first name:
+Alphabetical by surname name:
 
 - Clement Albinet, @ClementAlbinet (2020)
 - Stefanie Lumnitz, @slumnitz (2020)

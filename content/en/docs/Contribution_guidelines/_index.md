@@ -1,7 +1,7 @@
 ---
 title: "Contributing"
 linkTitle: "Contributing"
-weight: 10
+weight: 30
 description: >
   How to contribute to BioPAL
 ---

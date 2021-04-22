@@ -5,7 +5,7 @@ description: >
   ESA's forest mission - BIOMASS
 ---
 
-[![BIOMASS](https://img.youtube.com/vi/8uDq78B53AU/0.jpg)](https://www.youtube.com/watch?v=8uDq78B53AU)
+{{< youtube id="8uDq78B53AU" title="Biomass Mission" >}}
 
 ESA’s forest mission, BIOMASS is the first satellite to carry a P-band Synthetic Aperture Radar (SAR), in combination with polarimetric and interferometric capabilities. With an exceptionally large antenna of about 12 m diameter, BIOMASS generates a wavelength 70 cm long. Its radar signal will penetrate through the whole forest layer, _seeing_ the larger elements of the tree (like trunk and branches, constituting a significant amount of biomass) and transparent to canopy leaves. The signal scattered back will therefore carry information about the forest structure that can be used to infer parameters such as forest biomass and forest height. Additionally, the mission will have a specific experimental tomographic phase to provide 3D views of forests.
 

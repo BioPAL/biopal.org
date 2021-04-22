@@ -101,7 +101,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/BioPAL/BioPAL"
+github_repo = "https://github.com/BioPAL/BioPAL.org"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/BioPAL/BioPAL"
 
@@ -142,7 +142,7 @@ footer_about_disable = false
 # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
 # add "hide_feedback: true" to the page's front matter.
 [params.ui.feedback]
-enable = true
+enable = false
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
@@ -155,19 +155,19 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-	name = "User mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discussion and help from your fellow users"
+#[[params.links.user]]
+#	name = "User mailing list"
+#	url = "https://example.org/mail"
+#	icon = "fa fa-envelope"
+#        desc = "Discussion and help from your fellow users"
 [[params.links.user]]
 	name ="Twitter"
-	url = "https://example.org/twitter"
+	url = "https://twitter.com/biopal_dev"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
 	name = "Stack Overflow"
-	url = "https://example.org/stack"
+	url = "https://stackoverflow.com/questions/ask?tags=biopal"
 	icon = "fab fa-stack-overflow"
         desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
@@ -178,12 +178,12 @@ enable = false
         desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
-	url = "biopal-esa.slack.com"
+	url = "http://biopal-esa.slack.com"
 	icon = "fab fa-slack"
         desc = "Chat with other project developers"
-[[params.links.developer]]
-	name = "Developer mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+#[[params.links.developer]]
+#	name = "Developer mailing list"
+#	url = "https://example.org/mail"
+#	icon = "fa fa-envelope"
+#        desc = "Discuss development issues around the project"
 

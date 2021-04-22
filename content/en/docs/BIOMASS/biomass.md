@@ -5,7 +5,8 @@ description: >
   Mapping forests from space
 ---
 
-[![](https://img.youtube.com/vi/UHclzDaD36I/0.jpg)](https://www.youtube.com/watch?v=UHclzDaD36I)
+
+{{< youtube id="UHclzDaD36I" title="Measuring Forests" >}}
 
 Measuring the biomass of a tree is not an easy task: unless it is cut and then weighted, its mass can only be inferred indirectly from measurements. In classical forestry, this problem can be solved for instance by measuring the height, diameter of the trunk, wood density and then calculating the mass through allometry. However, in-situ measurements are usually costly and difficult to do in remote areas and thus limited in time and space.
 

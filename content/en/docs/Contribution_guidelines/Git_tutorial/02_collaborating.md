@@ -37,7 +37,7 @@ cd ~/projects    # to navigate to the directory
 4. Clone the project using `git clone <url>`:
 
 ``` 
-git clone https://github.com/pysal/biopalgit
+git clone https://github.com/biopal/biopal.git
 ```
 
 This creates a new directory named `~/projects/biopal`, initializes a .git directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version. If you go into the new biopal directory that was just created, you’ll see the project files in there, ready to be worked on or used.
@@ -48,8 +48,8 @@ This creates a new directory named `~/projects/biopal`, initializes a .git direc
 ```
 origin	https://github.com/YOURUSERNAME/biopal.git (fetch)
 origin	https://github.com/YOURUSERNAME/biopal.git (push)
-upstream	https://github.com/pysal/biopal.git (fetch)
-upstream	https://github.com/pysal/biopal.git (push)
+upstream	https://github.com/biopal/biopal.git (fetch)
+upstream	https://github.com/biopal/biopal.git (push)
 ```
 
 It is likely that `git remote -v` will look more something like this:

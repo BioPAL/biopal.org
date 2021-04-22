@@ -20,5 +20,5 @@ The following table reports current target figures for the products.
 
 The products are intended to be global, covering forested land areas between 75°N and 56°S but subject to United States Department of Defense Space Object Tracking Radar (SOTR) restrictions, as illustrated.
 
-![BIOMASS coverage](/docs/img/BIOMASS_observation_modes.png)
+![BIOMASS coverage](/docs/img/biomass_coverage.png)
 *Map of coverage of ESA and NASA satellite measurements of forest structure and biomass. The background shows the global coverage area of the NISAR mission and the sensitivity of NISAR to aboveground biomass values < 100 Mg/ha (green and yellow). The BIOMASS mission coverage includes the tropical belt and a portion of the northeast Siberia and the GEDI LiDAR sampling coverage from the International Space Station (ISS) between ±50 degrees latitude. Original source [Forest Observation System](https://forest-observation-system.net/Docs/NISAR_Vegetation_Biomass_Workshop_Report.pdf).*
