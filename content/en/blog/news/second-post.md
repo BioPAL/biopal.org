@@ -1,7 +1,7 @@
 ---
 title: "BioPAL at POLINSAR"
 linkTitle: "BioPAL at POLINSAR"
-date: 2021-03-01
+date: 2021-04-21
 author: Francesco Banda
 description: "BioPAL project will be presented at POLINSAR"
 ---
