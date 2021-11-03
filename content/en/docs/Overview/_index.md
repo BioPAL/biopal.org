@@ -18,5 +18,5 @@ The BIOMASS Product Algorithm Laboratory (BioPAL) is an open-source scientific c
 
 ## First steps
 
-* [Getting Started](/docs/getting-started/): Get started with BioPAL !
-* [Tutorials](/docs/tutorials/): Check out some example use-case !
+* [Getting Started](https://biopal.readthedocs.io/en/latest/getting_started.html): Get started with BioPAL !
+* [Tutorials](https://biopal.readthedocs.io/en/latest/tutorials.html): Check out some example use-case !
