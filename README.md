@@ -99,3 +99,21 @@ Error: Error building site: TOCSS: failed to transform "scss/main.scss" (text/x-
 This error occurs if you have not installed the extended version of Hugo.
 See our [user guide](https://www.docsy.dev/docs/getting-started/) for instructions on how to install Hugo.
 
+
+## Build the html site to be uploaded 
+
+To generate the html static website to be uploaded on the server, simply digit following command:
+   ```bash
+   hugo
+   ```
+The html static website will be produced in *public/* folder.
+
+The current configuration present in *config.toml* is set to produce a website with correct paths working when uploaded.
+
+To reproduce instead the static website browsable from a local file system, use folowing flags in *config.toml*:
+   ```bash
+      baseURL = "/"
+      relativeURLs = true
+      uglyURLs = true
+      canonifyURLs = false
+   ```

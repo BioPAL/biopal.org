@@ -1,7 +1,10 @@
-baseURL = "/"
+baseURL = "https://www.biopal.org/"
 title = "BioPAL"
 
+canonifyURLs = true
+
 enableRobotsTXT = true
+
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["docsy"]
